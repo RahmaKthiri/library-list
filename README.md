@@ -12,3 +12,4 @@
 | [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | A fast ImageView (and Drawable) that supports rounded corners, ovals or circles |
 | [hawk](https://github.com/orhanobut/hawk) | Simple key-value storage for android with security (data encryption) |
 | [rootbeer](https://github.com/scottyab/rootbeer) | Android root checker library |
+| [shimmer-android](https://github.com/facebook/shimmer-android) | Shimmer is an Android library that provides an easy way to add a shimmer effect to any view in your Android app |
