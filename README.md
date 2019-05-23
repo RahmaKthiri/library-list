@@ -14,3 +14,6 @@
 | [rootbeer](https://github.com/scottyab/rootbeer) | Android root checker library |
 | [shimmer-android](https://github.com/facebook/shimmer-android) | Shimmer is an Android library that provides an easy way to add a shimmer effect to any view in your Android app |
 | [libphonenumber](https://github.com/googlei18n/libphonenumber) | |
+| [readmoretextview](https://github.com/bravoborja/ReadMoreTextView) | |
+| [phonematter](https://github.com/terrakok/Phonematter) |  |
+| [Emoji](https://github.com/vanniktech/Emoji) |  |
