@@ -21,3 +21,4 @@
 | [Fetch](https://github.com/tonyofrancis/fetch) | Download manager library |
 | [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) | Download manager library |
 | [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | Networking library for android (can be used to download/upload etc.) |
+| [Timer](https://github.com/JakeWharton/timber) | Android loggin library |
