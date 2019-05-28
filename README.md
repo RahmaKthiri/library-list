@@ -24,3 +24,4 @@
 | [Timber](https://github.com/JakeWharton/timber) | Android loggin library |
 | [ButterKnife](https://github.com/JakeWharton/butterknife) | Query android view from layout easily |
 | [Pix](https://github.com/akshay2211/PixImagePicker) | Whatsapp like image picker |
+| [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) | Image Cropping Library for Android |
