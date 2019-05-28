@@ -20,3 +20,4 @@
 | [Dexter](https://github.com/Karumi/Dexter) | Handle permission in android easily |
 | [Fetch](https://github.com/tonyofrancis/fetch) | Download manager library |
 | [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) | Download manager library |
+| [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | Networking library for android (can be used to download/upload etc.) |
