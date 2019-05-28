@@ -18,3 +18,5 @@
 | [phonematter](https://github.com/terrakok/Phonematter) |  |
 | [Emoji](https://github.com/vanniktech/Emoji) |  |
 | [Dexter](https://github.com/Karumi/Dexter) | Handle permission in android easily |
+| [Fetch](https://github.com/tonyofrancis/fetch) | Download manager library |
+| [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) | Download manager library |
