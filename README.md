@@ -17,3 +17,4 @@
 | [readmoretextview](https://github.com/bravoborja/ReadMoreTextView) | |
 | [phonematter](https://github.com/terrakok/Phonematter) |  |
 | [Emoji](https://github.com/vanniktech/Emoji) |  |
+| [Dexter](https://github.com/Karumi/Dexter) |  |
