@@ -28,4 +28,5 @@
 | [CWAC-SafeRoom](https://github.com/commonsguy/cwac-saferoom/) | Encrypt Room Database ORM |
 | [WA StatusStories](https://github.com/RahulJanagouda/StatusStories) |  |
 | [WA RecordView](https://github.com/3llomi/RecordView) |  |
+| [WA PhotoEditor](https://github.com/DroidNinja/Whatsapp-Like-PhotoEditor) |  |
 | [ImageEditor-Androd](https://github.com/siwangqishiq/ImageEditor-Android) |  |
