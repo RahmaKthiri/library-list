@@ -30,3 +30,4 @@
 | [WA RecordView](https://github.com/3llomi/RecordView) |  |
 | [WA PhotoEditor](https://github.com/DroidNinja/Whatsapp-Like-PhotoEditor) |  |
 | [ImageEditor-Androd](https://github.com/siwangqishiq/ImageEditor-Android) |  |
+| [CameraKit](https://github.com/CameraKit/camerakit-android) | Library for android camera |
